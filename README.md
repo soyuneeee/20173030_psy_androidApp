@@ -3,10 +3,10 @@
 ## 1주차 
 
 ## 2주차    
-  - Github 사용법  
+  - 출석과제  
 
 
-<img width="300" height="200" src="./png/rabbit.jpg"></img>
+<img width="300" height="200" src="./png/캡스톤 2.jpg"></img>
   
 
   
