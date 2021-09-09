@@ -6,7 +6,6 @@
   - 출석과제  
 
 
-<img width="500" height="500" src="./png/2주.png"></img>
   
 
   
