@@ -6,7 +6,7 @@
   - 출석과제  
 
 
-<img width="500" height="500" src="./png/2st.png"></img>
+<img width="500" height="500" src="./png/2주차과제.jpg"></img>
   
 
   
