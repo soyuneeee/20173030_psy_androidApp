@@ -6,7 +6,7 @@
   - Github 사용법  
 
 
-<img width="300" height="300" src="./png/rabbit.jpg"></img>
+<img width="300" height="200" src="./png/rabbit.jpg"></img>
   
 
   
