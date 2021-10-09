@@ -40,5 +40,6 @@
 ## 5주차
 <img width="300" height="500" src="./png/a5.PNG"></img> <img width="300" height="500" src="./png/b5.PNG"></img>
 
-  
+## 6주차  
+<img width="300" height="500" src="./png/6week01.PNG"></img> <img width="300" height="500" src="./png/6week02.PNG"></img>
 
