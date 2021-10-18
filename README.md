@@ -44,4 +44,4 @@
 <img width="300" height="500" src="./png/6week01.PNG"></img> <img width="300" height="500" src="./png/6week02.PNG"></img>
 
 ## 7주차  
-<img width="300" height="500" src="./png/7week.PNG"></img> <img width="300" height="500" src="./png/7week.PNG"></img>
+<img width="300" height="500" src="./png/7week.PNG"></img> 
